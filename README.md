@@ -1,9 +1,6 @@
 # PROJETO -> Estação meteorológica de baixo custo!
 
-> **Strater:** *Matheus M. Sousa*
->
-> **Contributors:** *Marcos Paulo L. Resende*; *André Luiz V. Silva*; *Juvenal Caetano de Barcelos*; *Júlio César Neves dos Santos*
->
+
 > O presente repositório, visa documentar a trajetória por trás da elaboração de uma estação meteorológica com base em Arduíno e peças impressas.
 >
 > A utilização de todo e qualquer arquivo aqui presente deve seguir a metodologia de citação com base nas normas estabelecidas pela ABNT. 
